@@ -189,13 +189,6 @@ npm install
 npm run dev
 ```
 
-The development server will be available at `http://localhost:5173` by default. For a production build:
-
-```bash
-npm run build
-npm run preview
-```
-
 ---
 
 ## API Endpoints
